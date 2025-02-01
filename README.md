@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dysfunc.github.io/eleven/">
-    <img alt="Eleven" src="https://github.com/dysfunc/eleven/blob/master/app/img/logo.png?raw=true" width="400" />
+    <img alt="Just Like Eleven" src="https://github.com/dysfunc/eleven/blob/master/app/img/logo.png?raw=true" width="400" />
   </a>
 </p>
 
