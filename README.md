@@ -1,4 +1,4 @@
-<p align="center">
+2<p align="center">
   <a href="https://dysfunc.github.io/eleven/">
     <img alt="Twelve" src="https://github.com/dysfunc/eleven/blob/master/app/img/logo.png?raw=true" width="400" />
   </a>
@@ -17,9 +17,7 @@
   </a>
 </p>
 
----
-
-Eleven was started as an exploratory hacking project after some development in the voice space. The project has evolved into something that others showed interest in so we've decided to open it up for everyone. If you'd like to see this evolve even further we'd love the help! Please contribute!
+Trying to figure things out. Select at your own risk
 
 **NOTE**
 This uses experimental APIs which means you will need to use the latest version of Chrome. When viewing the demo you need to enable the microphone and speak clearly when issuing voice commands.
